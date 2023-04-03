@@ -47,7 +47,7 @@ body {
 
 .title {
     display: flex;
-    height: 23vh;
+    height: 20vh;
     justify-content: center;
     align-items: end;
     letter-spacing: 10px;
@@ -61,7 +61,7 @@ body {
     width: 850px;
     background: #ffffff;
     margin: auto;
-    margin-top: 60px;
+    margin-top: 75px;
     display: flex;
     flex-wrap: wrap;
     padding: 30px 30px 30px 35px;
@@ -78,7 +78,7 @@ body {
     color: hsl(185, 11%, 42%);
     font-weight: 700;
     font-size: 1em;
-    padding: 10px 0 5px 0;
+    padding: 15px 0 5px 0;
 }
 
 .left .prices {
@@ -224,19 +224,19 @@ body {
     justify-content: space-between;
     color: #fff;
     padding: 0 0 35px 0;
-    font-size: 27px;
+    font-size: 30px;
     position: relative;
 }
 
 .right p {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .right p span {
     color: hsl(185, 11%, 42%);
     font-weight: 900;
     font-size: 0.8em;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .right h2 {
