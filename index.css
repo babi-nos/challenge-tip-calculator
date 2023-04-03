@@ -47,18 +47,18 @@ body {
 
 .title {
     display: flex;
-    height: 20vh;
+    height: 23vh;
     justify-content: center;
     align-items: end;
     letter-spacing: 5px;
-    font-size: 25px;
+    font-size: 30px;
     color: #00000088;
     font-weight: 600;
 }
 
 .ap-js {
     height: auto;
-    width: 750px;
+    width: 950px;
     background: #ffffff;
     margin: auto;
     margin-top: 75px;
@@ -77,7 +77,7 @@ body {
 .title-number {
     color: hsl(185, 11%, 42%);
     font-weight: 700;
-    font-size: 0.9em;
+    font-size: 1em;
     padding: 10px 0 5px 0;
 }
 
@@ -98,7 +98,7 @@ body {
     cursor: pointer;
     text-align: right;
     width: 100%;
-    height: 37px;
+    height: 42px;
     font-size: 15px;
     padding-right: 15px;
     background-color: hsla(185, 41%, 84%, 0.201);
@@ -114,12 +114,12 @@ body {
 .left .btn-tip button {
     border: none;
     background: hsl(183, 100%, 15%);
-    margin: 5px auto;
-    width: 28.5%;
-    height: 37px;
+    margin: 5px 5px 10px 0 ;
+    width: 27.5%;
+    height: 45px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
-    padding: 8px;
+    /* padding: 8px; */
     color: hsl(180, 12%, 88%);
     font-size: 20px;
     border-radius: 4px;
@@ -149,10 +149,10 @@ body {
     background-color: hsla(185, 41%, 84%, 0.201);
     color: hsl(185, 11%, 42%);
     border: none;
-    width: 28.5%;
-    height: 37px;
+    width: 27.5%;
+    height: 45px;
     font-weight: 700;
-    padding: 8px;
+    margin: 5px 5px 10px 0 ;
     color: #fff;
     font-size: 20px;
     border-radius: 4px;
@@ -190,6 +190,7 @@ body {
     width: 100%;
     height: 37px;
     font-size: 15px;
+    
     /* padding-right: 15px; */
     background-color: hsla(185, 41%, 84%, 0.201);
     border: none;
@@ -223,7 +224,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     color: #fff;
-    padding: 0 0 25px 0;
+    padding: 0 0 45px 0;
     font-size: 27px;
     position: relative;
 }
@@ -251,7 +252,7 @@ body {
 .right #resetBtn {
     border: none;
     background: #0D686D;
-    margin: 70px 0 0 0;
+    margin: 65px 0 0 0;
     width: 100%;
     height: 38px;
     font-weight: 900;
