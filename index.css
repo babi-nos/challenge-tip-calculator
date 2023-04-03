@@ -50,10 +50,10 @@ body {
     height: 23vh;
     justify-content: center;
     align-items: end;
-    letter-spacing: 5px;
-    font-size: 30px;
+    letter-spacing: 10px;
+    font-size: 25px;
     color: #00000088;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .ap-js {
@@ -98,7 +98,7 @@ body {
     cursor: pointer;
     text-align: right;
     width: 100%;
-    height: 42px;
+    height: 45px;
     font-size: 15px;
     padding-right: 15px;
     background-color: hsla(185, 41%, 84%, 0.201);
@@ -116,12 +116,11 @@ body {
     background: hsl(183, 100%, 15%);
     margin: 5px 5px 10px 0 ;
     width: 27.5%;
-    height: 45px;
+    height: 50px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
-    /* padding: 8px; */
     color: hsl(180, 12%, 88%);
-    font-size: 20px;
+    font-size: 25px;
     border-radius: 4px;
 }
 
@@ -150,7 +149,7 @@ body {
     color: hsl(185, 11%, 42%);
     border: none;
     width: 27.5%;
-    height: 45px;
+    height: 50px;
     font-weight: 700;
     margin: 5px 5px 10px 0 ;
     color: #fff;
@@ -188,7 +187,7 @@ body {
 .left .people input {
     text-align: right;
     width: 100%;
-    height: 37px;
+    height: 45px;
     font-size: 15px;
     
     /* padding-right: 15px; */
