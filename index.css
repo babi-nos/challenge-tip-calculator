@@ -58,13 +58,13 @@ body {
 
 .ap-js {
     height: auto;
-    width: 950px;
+    width: 850px;
     background: #ffffff;
     margin: auto;
-    margin-top: 75px;
+    margin-top: 60px;
     display: flex;
     flex-wrap: wrap;
-    padding: 25px 25px 25px 25px;
+    padding: 30px 30px 30px 35px;
     border-radius: 20px;
 }
 
@@ -86,9 +86,9 @@ body {
     margin: 0 30px 20px 0;
 }
 
-.left .prices img {
+.left .prices svg {
     position: absolute;
-    width: 9px;
+    width: 13px;
     top: 50%;
     left: 10px;
     transform: translate(0%, -50%);
@@ -115,8 +115,8 @@ body {
     border: none;
     background: hsl(183, 100%, 15%);
     margin: 5px 5px 10px 0 ;
-    width: 27.5%;
-    height: 50px;
+    width: 28%;
+    height: 45px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
     color: hsl(180, 12%, 88%);
@@ -148,7 +148,7 @@ body {
     background-color: hsla(185, 41%, 84%, 0.201);
     color: hsl(185, 11%, 42%);
     border: none;
-    width: 27.5%;
+    width: 28%;
     height: 50px;
     font-weight: 700;
     margin: 5px 5px 10px 0 ;
@@ -196,9 +196,9 @@ body {
     border-radius: 5px;
 }
 
-.left .people img {
+.left .people svg {
     position: absolute;
-    width: 9px;
+    width: 13px;
     top: 50%;
     left: 10px;
     transform: translate(0%, -50%);
@@ -223,7 +223,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     color: #fff;
-    padding: 0 0 45px 0;
+    padding: 0 0 35px 0;
     font-size: 27px;
     position: relative;
 }
@@ -243,15 +243,10 @@ body {
     color: #24C0AA;
 }
 
-.right img {
-    width: 27px;
-    padding: 0 5px;
-}
-
 .right #resetBtn {
     border: none;
     background: #0D686D;
-    margin: 65px 0 0 0;
+    margin: 100px 0 0 0;
     width: 100%;
     height: 38px;
     font-weight: 900;
