@@ -64,7 +64,7 @@ body {
     margin-top: 95px;
     display: flex;
     flex-wrap: wrap;
-    padding: 30px 30px 30px 35px;
+    padding: 35px 30px 30px 35px;
     border-radius: 20px;
 }
 
@@ -211,7 +211,7 @@ body {
     flex-basis: 50%;
     background: hsl(183, 100%, 15%);
     border-radius: 15px;
-    padding: 40px 35px 35px 35px;
+    padding: 55px 35px 35px 50px;
 }
 
 .tip-amount,
@@ -230,7 +230,7 @@ body {
 }
 
 .right p {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .right p span {
@@ -247,9 +247,9 @@ body {
 .right #resetBtn {
     border: none;
     background: #0D686D;
-    margin: 105px 0 0 0;
+    margin: 90px 0 0 0;
     width: 100%;
-    height: 38px;
+    height: 45px;
     font-weight: 900;
     color: hsla(183, 100%, 15%, 0.39);
     border-radius: 5px;
